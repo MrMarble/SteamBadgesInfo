@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam Badges Info
 // @namespace    https://steamcommunity.com
-// @version      0.2
+// @version      0.3
 // @description  This script shows you more information in the badges section
 // @author       MrMarble
 // @match        https://steamcommunity.com/id/*/badges/*
