@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  This script shows you more information in the badges section
 // @author       MrMarble
-// @match        https://steamcommunity.com/id/*/badges/
+// @match        https://steamcommunity.com/id/*/badges/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/MrMarble/SteamBadgesInfo/master/SteamBadgesInfo.user.js
 // @downloadURL  https://raw.githubusercontent.com/MrMarble/SteamBadgesInfo/master/SteamBadgesInfo.user.js
